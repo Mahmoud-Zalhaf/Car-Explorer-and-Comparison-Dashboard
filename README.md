@@ -137,14 +137,19 @@ The dataset contains over **1,200 cars** with information such as:
 **Overview**
 
 <img width="1421" height="797" alt="1" src="https://github.com/user-attachments/assets/5635e72b-eb5c-4532-8147-c2956f7a7003" />
+
 <img width="1422" height="795" alt="2" src="https://github.com/user-attachments/assets/49e1641a-7cbe-42d4-b5c8-3e0a3768bcec" />
 
 **Explore Cars**
 
 <img width="1439" height="807" alt="3" src="https://github.com/user-attachments/assets/4ec78a79-de60-4189-ac03-5694fe4871bf" />
+
 <img width="1440" height="809" alt="4" src="https://github.com/user-attachments/assets/e0549f67-3d7b-4acf-9dd7-1542361c8117" />
+
 <img width="1437" height="804" alt="5" src="https://github.com/user-attachments/assets/0726381e-1487-475e-9028-00976f275b1b" />
+
 <img width="1434" height="805" alt="6" src="https://github.com/user-attachments/assets/3be15cf6-8557-40d1-b025-6461a6f9344e" />
+
 <img width="1434" height="808" alt="7" src="https://github.com/user-attachments/assets/ff5cc6c1-894a-43f5-9271-a1a4c52faab6" />
 
 **Preview Car**
@@ -154,9 +159,13 @@ The dataset contains over **1,200 cars** with information such as:
 **Compare Cars**
 
 <img width="1437" height="802" alt="9" src="https://github.com/user-attachments/assets/3722b056-a75f-449c-8fd1-d7c94e51a4e3" />
+
 <img width="1436" height="807" alt="10" src="https://github.com/user-attachments/assets/cfbdc79c-3df3-4afd-b185-f12c6e90a4a3" />
+
 <img width="1435" height="803" alt="11" src="https://github.com/user-attachments/assets/57bb730e-6e4b-4b1b-8285-ee05efd2ffaa" />
+
 <img width="1438" height="804" alt="12" src="https://github.com/user-attachments/assets/7f13e8ac-b007-4bfa-92a9-25c6f9d820cb" />
+
 <img width="1439" height="806" alt="13" src="https://github.com/user-attachments/assets/e3f716cc-0fe9-46e5-86e9-0635aff43f7a" />
 
 **Car A Details**
